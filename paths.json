@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/adeng/xwlkciti-20260519-105512/:/",
+      "/content/adeng/xwlkciti-20260519-105512/configuration:/.helix/config.json",
+      "/content/adeng/xwlkciti-20260519-105512/metadata:/metadata.json",
+      "/content/adeng/xwlkciti-20260519-105512/configs:/configs.json",
+      "/content/adeng/xwlkciti-20260519-105512/configs-stage:/configs-stage.json",
+      "/content/adeng/xwlkciti-20260519-105512/configs-dev:/configs-dev.json",
+      "/content/adeng/xwlkciti-20260519-105512/redirects:/redirects.json",
+      "/content/adeng/xwlkciti-20260519-105512/placeholders:/placeholders.json",
+      "/content/adeng/xwlkciti-20260519-105512/products/recommended-products:/products/recommended-products.json",
+      "/content/adeng/xwlkciti-20260519-105512/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/adeng/xwlkciti-20260519-105512/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/adeng/xwlkciti-20260519-105512",
       "/content/dam/citisignal/images/products/"
     ]
 }
